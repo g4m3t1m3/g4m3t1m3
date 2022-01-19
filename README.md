@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g4m3t1m3
 - 👀 I’m interested in Web Application Vulnerability Testing, Threat Hunting, and Ethereum Web3
 - 🌱 I’m currently studying for my CISSP and GWAPT.
-- 💞️ I’m looking to collaborate on @CoffeeHouseSec
+- 💞️ I’m looking to collaborate on hand-knitting a Jeff Lebowski wool sweater.
 - 📫 How to reach me @CoffeeHouseSec on Twitter
 
 <!---
