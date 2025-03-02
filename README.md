@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @g4m3t1m3
-- 👀 I’m interested in Web Application Vulnerability Testing, Threat Hunting, and Ethereum Web3
-- 🌱 I’m currently studying for my CISSP and GWAPT.
-- 💞️ I’m looking to collaborate on hand-knitting a Jeff Lebowski wool sweater.
+- 👋 Hi, I’m Chad
+- 👀 Most interesting DefCon I went to was DefCon 24 where I hung out with John McAfee, very interesting fellow and great party.
+- 🌱 I’m currently working on various AI and ML projects to enhane/streamline our SOC detection capabilities
+- 💞️ I’m looking to collaborate on mass production of custom hand-knitted Jeffrey Lebowski wool sweaters.
 - 📫 How to reach me @CoffeeHouseSec on Twitter
 
 <!---
